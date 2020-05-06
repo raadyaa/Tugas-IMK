@@ -1,0 +1,96 @@
+
+body {
+  background-color: #588da8;
+}
+
+.header{
+    background-color: white;
+}
+
+img {
+    border: 5px solid #e58a8a;
+    border-radius: 50%;
+    float:right;
+}
+
+a.hubungi{
+    color: #e58a8a;
+    text-decoration: none
+}
+
+td.center{
+    border-top: 2px solid white ;
+    color: #e58a8a;
+    font-family: 'Bebas Neue';
+    font-size: 40px}
+}
+
+
+#isi {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size : 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#isi td, #isi th {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size : 20px;
+  padding: 20px;
+}
+
+#isi th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.gui{    
+    background-color: pink;
+}
+
+tbody.yellow{
+    background-color: #ffe277;
+}
+.pink{
+    background-color: mediumvioletred;
+}
+.green{
+    background-color: mediumaquamarine;
+}
+.purp{
+    background-color: steelblue;
+}
+tr.pink{
+    background-color: pink;
+}
+
+  table.gede{
+      padding: 50px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+.biodata{
+    border-top: 1px solid black;
+    background-color: #e58a8a;
+    color: white;
+    font-family: 'Century Gothic';
+}
+
+.organisasi{
+    background-color: white;
+}
+
+h1 {
+    font-family: volkorn;
+    font-size: 50px;
+    color: #e58a8a;
+    text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 16px;
+}
